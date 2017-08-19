@@ -1,0 +1,4 @@
+dbusers:
+  - mongoman
+  - mongomaggie
+  - mongobart
