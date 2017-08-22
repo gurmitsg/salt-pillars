@@ -1,4 +1,4 @@
-staging:
+develop:
   'os_family:debian':
     - match: grain
     - mongousers
