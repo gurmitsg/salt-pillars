@@ -1,4 +1,4 @@
 dbusers:
-  - productionmongoman
-  - productionmongomaggie
-  - productionmongobart
+  - stagingmongoman
+  - stagingmongomaggie
+  - stagingmongobart

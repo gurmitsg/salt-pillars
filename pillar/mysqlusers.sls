@@ -1,4 +1,4 @@
 dbusers:
-  - productionmysqltom
-  - productionmysqljohn
-  - productionmysqlmarry
+  - stagingmysqltom
+  - stagingmysqljohn
+  - stagingmysqlmarry
