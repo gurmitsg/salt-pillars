@@ -1,4 +1,4 @@
 dbusers:
-  - mongoman
-  - mongomaggie
-  - mongobart
+  - devmongoman
+  - devmongomaggie
+  - devmongobart

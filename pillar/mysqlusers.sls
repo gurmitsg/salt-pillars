@@ -1,4 +1,4 @@
 dbusers:
-  - mysqltom
-  - mysqljohn
-  - mysqlmarry
+  - devmysqltom
+  - devmysqljohn
+  - devmysqlmarry
